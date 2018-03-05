@@ -1,0 +1,4 @@
+com\spring\buslogic\UserImpl.class
+com\spring\aspect\LoggingAspect.class
+com\spring\buslogic\User.class
+com\spring\app\AOPApp.class
